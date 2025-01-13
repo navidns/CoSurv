@@ -1,7 +1,7 @@
 # tests/test_simulation.py
 
 import unittest
-from src.simulation.run_simulation import simulate_network
+from simulation.msg_exg_simulation import simulate_network
 
 class TestSimulation(unittest.TestCase):
 

@@ -1,0 +1,9 @@
+README.md
+setup.py
+peer_to_peer_federated_learning.egg-info/PKG-INFO
+peer_to_peer_federated_learning.egg-info/SOURCES.txt
+peer_to_peer_federated_learning.egg-info/dependency_links.txt
+peer_to_peer_federated_learning.egg-info/top_level.txt
+tests/test_message_exchange.py
+tests/test_nodes.py
+tests/test_simulation.py
