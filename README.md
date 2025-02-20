@@ -24,7 +24,6 @@ This repository contains the implementation of a robust trust-based framework fo
 │   └── ...            # (Unit tests and integration tests)
 ├── venv
 │   └── ...            # (Local Python virtual environment)
-├── .DS_Store          # (macOS system file, may be ignored)
 ├── README.md          # This file: instructions and project overview
 ├── requirements.txt   # Python dependencies
 └── setup.py           # Setup script for installing the project as a Python package
