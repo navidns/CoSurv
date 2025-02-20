@@ -10,6 +10,7 @@ CoSurv: A Collaborative Framework for Survival Analysis in Healthcare
 This repository contains the implementation of a robust trust-based framework for federated learning, specifically designed for healthcare applications. Our approach leverages decentralized, peer-driven trust feedback to dynamically weight client contributions during model aggregation. This mechanism mitigates the impact of noisy or adversarial updates while promoting fairness among collaborating institutions. The provided code includes synthetic data generation, trust evaluation, noise injection, clustering-based aggregation, and convergence analysis experiments.
 
 ## Project Structure
+```markdown
 .
 ├── Data
 │   └── ...            # (Datasets or generated data files)
@@ -27,7 +28,7 @@ This repository contains the implementation of a robust trust-based framework fo
 ├── README.md          # This file: instructions and project overview
 ├── requirements.txt   # Python dependencies
 └── setup.py           # Setup script for installing the project as a Python package
-
+```
 
 ## Description
 
